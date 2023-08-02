@@ -1,0 +1,24 @@
+.container {
+  margin: auto;
+  width: 50%;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+.add-btn {
+  float: right;
+  background-color: red;
+  color: #ffffff;
+}
+
+.box {
+  background: #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
